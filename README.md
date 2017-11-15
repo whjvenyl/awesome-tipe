@@ -13,3 +13,13 @@
 - [Tipe Slack](https://tipe-community.slack.com) - Join the Slack group dedicated to Tipe discussion.
 - [r/tipe](https://www.reddit.com/r/tipe/) - Reddit for Tipe
 - [Official Facebook](https://www.facebook.com/tipecms/) - Like the official Tipe Facebook page.
+
+___
+
+enjoy — [**PatrickJS**](https://twitter.com/gdi2290)
+
+___
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
