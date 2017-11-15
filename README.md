@@ -4,3 +4,12 @@
 
 # Awesome Tipe [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > Carefully curated list of awesome Tipe plugins, starters, workflows, articles, resources and shiny things.
+
+- [Community](#community)
+
+
+## Community
+- [`@TipeIO` on Twitter](https://twitter.com/tipeio) - Follow the conversation, official community hashtag is `#tipe`.
+- [Tipe Slack](https://tipe-community.slack.com) - Join the Slack group dedicated to Tipe discussion.
+- [r/tipe](https://www.reddit.com/r/tipe/) - Reddit for Tipe
+- [Official Facebook](https://www.facebook.com/tipecms/) - Like the official Tipe Facebook page.
