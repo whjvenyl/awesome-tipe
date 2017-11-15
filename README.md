@@ -8,8 +8,17 @@
 > Carefully curated list of awesome Tipe plugins, starters, workflows, articles, resources and shiny things.
 
 ## Contents
+- [Company](#company)
 - [Community](#community)
 
+
+## Company
+ - [`@TipeIO` on Twitter](https://twitter.com/tipeio)
+ - [Tipe Facebook](https://www.facebook.com/tipecms/)
+ - [Tipe AngelList](https://angel.co/tipe)
+ - [Tipe LinkedIn](https://www.linkedin.com/company/tipeio)
+ - [Tipe CrunchBase](https://www.crunchbase.com/organization/tipe)
+ - [Tipe StackShare](https://stackshare.io/tipe)
 
 ## Community
 - [`@TipeIO` on Twitter](https://twitter.com/tipeio) - Follow the conversation, official community hashtag is `#tipe`.
