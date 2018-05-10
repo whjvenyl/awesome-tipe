@@ -33,7 +33,7 @@
 
 ## Community
 - [`@TipeIO` on Twitter](https://twitter.com/tipeio) - Follow the conversation, official community hashtag is `#tipe`.
-- [Tipe Slack](https://tipe-community.slack.com) - Join the Slack group dedicated to Tipe discussion.
+- [Tipe Slack](https://chat.tipe.io/) - Join the Slack group dedicated to Tipe discussion.
 - [r/tipe](https://www.reddit.com/r/tipe/) - Reddit for Tipe
 - [Official Facebook](https://www.facebook.com/tipecms/) - Like the official Tipe Facebook page.
 
