@@ -22,6 +22,11 @@
  - [Tipe JavaScript Example](https://github.com/tipeio/tipe-javascript-example/)
  - [Tipe React Example](https://github.com/tipeio/tipe-react-example/)
  - [Tipe Vue Example](https://github.com/tipeio/tipe-vue-example/)
+ - [Tipe Angular Example](https://github.com/tipeio/tipe-angular-example/)
+ - [Tipe Nuxt Example](https://github.com/tipeio/tipe-nuxt-example/)
+ - [Tipe Next Example](https://github.com/tipeio/tipe-next-example/)
+ - [Tipe Gatsby Example](https://github.com/tipeio/tipe-gatsby-example/)
+ - [Tipe React-Static Example](https://github.com/tipeio/tipe-react-static-example/)
 
 ## Company
  - [`@TipeIO` on Twitter](https://twitter.com/tipeio)
